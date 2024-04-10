@@ -1,0 +1,19 @@
+body{
+    font-family: 'Comic Sans MS';
+}
+.site-heading-lower{
+    font-family: 'Comic Sans MS';
+}
+.mb-3{
+    font-family: 'Times New Roman';
+    color: yellow !important; /*overwites all prior stuff*/
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text {
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.5);
+  }
+.section-heading-lower{
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.5);
+}
